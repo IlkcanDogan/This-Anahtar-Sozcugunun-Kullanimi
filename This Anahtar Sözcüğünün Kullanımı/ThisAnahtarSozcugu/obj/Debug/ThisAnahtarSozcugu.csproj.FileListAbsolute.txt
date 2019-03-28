@@ -1,0 +1,9 @@
+c:\users\mka\documents\visual studio 2012\Projects\ThisAnahtarSozcugu\ThisAnahtarSozcugu\bin\Debug\ThisAnahtarSozcugu.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\ThisAnahtarSozcugu\ThisAnahtarSozcugu\bin\Debug\ThisAnahtarSozcugu.exe
+c:\users\mka\documents\visual studio 2012\Projects\ThisAnahtarSozcugu\ThisAnahtarSozcugu\bin\Debug\ThisAnahtarSozcugu.pdb
+c:\users\mka\documents\visual studio 2012\Projects\ThisAnahtarSozcugu\ThisAnahtarSozcugu\obj\Debug\ThisAnahtarSozcugu.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\ThisAnahtarSozcugu\ThisAnahtarSozcugu\obj\Debug\ThisAnahtarSozcugu.exe
+c:\users\mka\documents\visual studio 2012\Projects\ThisAnahtarSozcugu\ThisAnahtarSozcugu\obj\Debug\ThisAnahtarSozcugu.pdb
+C:\Users\MKA\Desktop\C# Sınıflar\5) This Anahtar Sözcüğünün Kullanımı\ThisAnahtarSozcugu\bin\Debug\ThisAnahtarSozcugu.exe.config
+C:\Users\MKA\Desktop\C# Sınıflar\5) This Anahtar Sözcüğünün Kullanımı\ThisAnahtarSozcugu\obj\Debug\ThisAnahtarSozcugu.exe
+C:\Users\MKA\Desktop\C# Sınıflar\5) This Anahtar Sözcüğünün Kullanımı\ThisAnahtarSozcugu\obj\Debug\ThisAnahtarSozcugu.pdb
